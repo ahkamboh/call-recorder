@@ -26,7 +26,7 @@ Because this is a personal build and not on the Play Store, the phone shows a fe
 
 Options:
 
-- Open the [latest release](https://github.com/ahkamboh/call-recorder/releases/latest) in Chrome (sign in to GitHub first, the repo is private), tap **CallRecorder.apk** under **Assets**, then tap **Open** when it finishes.
+- Open the [latest release](https://github.com/ahkamboh/call-recorder/releases/latest) in Chrome, tap **CallRecorder.apk** under **Assets**, then tap **Open** when it finishes.
 - Or copy the file to the phone with Quick Share, Google Drive or USB, then open it from **Files > Downloads**.
 
 <img src="images/01-open-download.png" width="320" alt="Chrome download bar with the Open button marked">
