@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Lets the app hand its own recordings to other apps under their real file names. -->
+<paths>
+    <external-path name="music" path="Music/CallRecordings/" />
+</paths>

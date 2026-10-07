@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Call Recorder</string>
+    <string name="a11y_description">Lets Call Recorder capture audio while a phone call is active. The service does not read anything on screen.</string>
+    <string name="notif_channel">Recording</string>
+    <string name="notif_title">Recording call</string>
+</resources>
