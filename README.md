@@ -32,6 +32,14 @@ Whether the **other party** is in the recording depends on the phone's audio chi
 
 If the other side is silent, open the app and switch the audio source; test one call per source.
 
+## Install
+
+**New phone? Follow the [step-by-step install guide with screenshots](docs/INSTALL.md).**
+It covers the download, the unknown-apps prompt, Play Protect, the four permissions, and the
+"Restricted setting" unlock for the accessibility service.
+
+The short version is below.
+
 ## Install (one time)
 
 1. Copy `CallRecorder.apk` to the phone and open it. Allow "install unknown apps" for the file manager / browser if asked. Play Protect may warn because the app is unsigned by a store; choose Install anyway.
